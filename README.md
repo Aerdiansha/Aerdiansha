@@ -1,8 +1,8 @@
 ### Hi there 👋
- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning game development with these language
  - Python
  - C++
- - C# and..
+ - C#
  - Lua
 <!--
 **Aerdiansha/Aerdiansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

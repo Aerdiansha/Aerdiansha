@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
  🌱 I’m currently learning game development with these language
  - Python
  - C++

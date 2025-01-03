@@ -1,10 +1,9 @@
 ### Hello there!
- 🌱 I’m currently learning software development
- - Python
- - C++
- - C#
- - Javascript
- - PHP
+ 🌱 I’m currently learning :
+ * Web Development
+ * Mobile Development
+ * Game Development
+ * Desktop Application
 <!--
 **Aerdiansha/Aerdiansha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

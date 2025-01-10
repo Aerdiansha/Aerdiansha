@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="./assets/intro.gif
-  " width="200"/>
+  <img src="./assets/intro.gif" width="200"/>
   <br>
 
    # Self-taught <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=300&color=A9B1BE&center=true&vCenter=true&width=180&height=30&lines=Programmer;Designer;Person)](https://git.io/typing-svg)

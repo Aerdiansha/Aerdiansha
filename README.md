@@ -39,13 +39,7 @@
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
-</div> <hr> <br>
-
-
-
-
-
-
+</div>
 
 <!--
 

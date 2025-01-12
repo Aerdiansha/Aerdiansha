@@ -6,11 +6,21 @@
    # Self-taught <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=300&color=A9B1BE&center=true&vCenter=true&width=180&height=30&lines=Programmer;Designer;Person)](https://git.io/typing-svg)
 </div>
 
+<img src="assets/banner-2.gif" align="right" width="200" >
 
-### About
-- 🔧 Work at Personal Projects
-- 📖 Learning Web Development
-- ☕ A Coffee Addict
+
+<div align="center">
+<br><br>
+<h3>About</h3>
+
+    🔧 Work at Personal Projects
+    📖 Learning Web Development
+    ☕ A Coffee Addict
+
+</div>
+
+
+<br><br><br><br><br><br><hr>
 
 ### Language
 <div align="center">
@@ -39,9 +49,9 @@
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
-</div> <hr> <br>
+</div> <hr>
 
-<img src="assets/banner-2.gif" align="right" width="250" >
+
 
 
 <!-- 

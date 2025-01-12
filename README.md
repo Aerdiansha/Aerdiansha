@@ -12,13 +12,17 @@
 <br><br>
 <h3>About</h3>
 
-    🔧 Work at Personal Projects
-    📖 Learning Web Development
-    ☕ A Coffee Addict
+<pre>
+🔧 Work at Personal Projects
+
+📖 Learning Web Development 
+
+☕ A Coffee Addict
+</pre>
 
 </div>
 
-<br><br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><hr>
 
 <div align="center">
 <h3>Language</h3>
@@ -51,9 +55,6 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
 <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
 </div>
-
-
-
 
 <!-- 
 - 🔭 I’m currently working on ...

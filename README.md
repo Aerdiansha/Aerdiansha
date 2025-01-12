@@ -10,7 +10,7 @@
 ### About
 - 🔧 Work at Personal Projects
 - 📖 Learning Web Development
-- ☕ A Coffee Addict .....
+- ☕ A Coffee Addict
 
 ### Language
 <div align="center">

@@ -42,11 +42,6 @@
 </div> <hr> <br>
 
 <img src="assets/banner-2.gif" align="right" width="250" >
- <br><br><br>
-<div align="center">
-    <font size=6>"<br>KEEP CALM<br>AND<br>CODE<br>"</font>
-</div><br><br><br><hr>
-
 
 
 <!-- 

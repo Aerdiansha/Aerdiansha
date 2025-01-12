@@ -39,9 +39,15 @@
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
-</div> <hr>
+</div> <hr> <br>
 
 <img src="assets/banner-2.gif" align="right" width="250" >
+ <br><br><br>
+<div align="center">
+    <font size=6>"<br>KEEP CALM<br>AND<br>CODE<br>"</font>
+</div><br><br><br><hr>
+
+
 
 <!-- 
 - 🔭 I’m currently working on ...

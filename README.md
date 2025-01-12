@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="./assets/intro.gif
-  " width="200"/>
+  <img src="./assets/intro.gif" width="200"/>
   <br>
 
    # Self-taught <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=300&color=A9B1BE&center=true&vCenter=true&width=180&height=30&lines=Programmer;Designer;Person)](https://git.io/typing-svg)
 </div>
+
 
 ### About
 - 🔧 Work at Personal Projects
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
@@ -39,12 +39,11 @@
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
-</div>
+</div> <hr>
 
-<!--
+<img src="assets/banner-2.gif" align="right" width="250" >
 
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -53,3 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+

@@ -11,7 +11,6 @@
 
 <div align="right">
   <img src="./assets/banner-2.gif" width="200" />
-  <br>
 </div>
 
 - 🔧 Work at Personal Projects

@@ -7,8 +7,9 @@
 
 </div>
 
-  <img src="./assets/banner-2.gif" width="300" align="right"/>
-
+  <img src="./assets/banner-2.gif" width="250" align="right"/>
+  <br><br>
+  
 ### About
 
 - 🔧 Work at Personal Projects

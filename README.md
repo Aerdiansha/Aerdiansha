@@ -11,11 +11,11 @@
   <br><br>
   
 ### About
-
-- 🔧 Work at Personal Projects
-- 📖 Learning Web & Game Development
-- ☕ A Coffee Addict .....
-
+<div align="center">
+  - 🔧 Work at Personal Projects
+  - 📖 Learning Web & Game Development
+  - ☕ A Coffee Addict .....
+</div>
 <br><br><br><br><br><br><hr>
 
 ### Language

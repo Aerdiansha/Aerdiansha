@@ -9,9 +9,7 @@
 
 ### About
 
-<div align="right">
-  <img src="./assets/banner-2.gif" width="200" />
-</div>
+  <img src="./assets/banner-2.gif" width="200" align="right"/>
 
 - 🔧 Work at Personal Projects
 - 📖 Learning Web & Game Development

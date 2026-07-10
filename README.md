@@ -16,6 +16,8 @@
 - 📖 Learning Web & Game Development
 - ☕ A Coffee Addict .....
 
+<br><br><br><br><br><br><hr>
+
 ### Language
 
 <div align="center">

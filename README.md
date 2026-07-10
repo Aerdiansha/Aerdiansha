@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
 ### Framework
@@ -43,20 +44,9 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=fff">
+    <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=fff">
 </div>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

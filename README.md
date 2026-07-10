@@ -3,15 +3,18 @@
   <img src="./assets/intro.gif" width="200"/>
   <br>
 
-   # Self-taught <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=300&color=A9B1BE&center=true&vCenter=true&width=180&height=30&lines=Programmer;Designer;Person)](https://git.io/typing-svg)
+# Self-taught <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=300&color=A9B1BE&center=true&vCenter=true&width=180&height=30&lines=Programmer;Designer;Person)](https://git.io/typing-svg)
+
 </div>
 
 ### About
+
 - 🔧 Work at Personal Projects
-- 📖 Learning Web Development
+- 📖 Learning Game Development
 - ☕ A Coffee Addict .....
 
 ### Language
+
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,6 +25,7 @@
 </div>
 
 ### Framework
+
 <div align="center">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -33,6 +37,7 @@
 </div>
 
 ### Other Tech
+
 <div align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff">
@@ -50,5 +55,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
 -->

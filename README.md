@@ -12,9 +12,9 @@
   
 ### About
 <div align="center">
-  - 🔧 Work at Personal Projects
-  - 📖 Learning Web & Game Development
-  - ☕ A Coffee Addict .....
+  <p>- 🔧 Work at Personal Projects</p>
+  <p>- 📖 Learning Web & Game Development</p>
+  <p>- ☕ A Coffee Addict .....</p>
 </div>
 <br><br><br><br><br><br><hr>
 

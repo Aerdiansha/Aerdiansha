@@ -8,7 +8,7 @@
 </div>
 
   <img src="./assets/banner-2.gif" width="200" align="right"/>
-    <br><br><br><br>
+
 
 ### About
 

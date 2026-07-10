@@ -8,7 +8,6 @@
 </div>
 
   <img src="./assets/banner-2.gif" width="250" align="right"/>
-  <br><br>
   
 ### About
 <div align="left">

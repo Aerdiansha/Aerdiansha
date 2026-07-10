@@ -8,14 +8,14 @@
 </div>
 
   <img src="./assets/banner-2.gif" width="250" align="right"/>
-  
+  <br><br><br>
 ### About
 <div align="left">
   <p>- 🔧 Work at Personal Projects</p>
   <p>- 📖 Learning Web & Game Development</p>
   <p>- ☕ A Coffee Addict .....</p>
 </div>
-<br><br><br><br><br><br><br><br><hr>
+<br><br><br><br><br><br><hr>
 
 ### Language
 

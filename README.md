@@ -11,7 +11,7 @@
   <br><br>
   
 ### About
-<div align="center">
+<div align="left">
   <p>- 🔧 Work at Personal Projects</p>
   <p>- 📖 Learning Web & Game Development</p>
   <p>- ☕ A Coffee Addict .....</p>

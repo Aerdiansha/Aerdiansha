@@ -7,13 +7,13 @@
 
 </div>
 
-  <img src="./assets/banner-2.gif" width="200"/>
-  <br>
-
 ### About
 
+  <img src="./assets/banner-2.gif"/>
+  <br>
+
 - 🔧 Work at Personal Projects
-- 📖 Learning Web Development
+- 📖 Learning Web & Game Development
 - ☕ A Coffee Addict .....
 
 ### Language

@@ -7,9 +7,10 @@
 
 </div>
 
-### About
-
   <img src="./assets/banner-2.gif" width="200" align="right"/>
+    <br><br>
+
+### About
 
 - 🔧 Work at Personal Projects
 - 📖 Learning Web & Game Development

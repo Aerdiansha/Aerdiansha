@@ -9,7 +9,7 @@
 
 ### About
 
-  <img src="./assets/banner-2.gif"/>
+  <img src="./assets/banner-2.gif" width="100"/>
   <br>
 
 - 🔧 Work at Personal Projects

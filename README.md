@@ -11,12 +11,20 @@
   <br><br><br>
   
 ### About
+<<<<<<< HEAD
 <div align="left">
   <p>- 🔧 Work at Personal Projects</p>
   <p>- 📖 Learning Web & Game Development</p>
   <p>- ☕ A Coffee Addict .....</p>
 </div>
 <br><br><br><br><br><br><hr>
+=======
+
+- 🔧 Work at Personal Projects
+- 📖 Learning Web & Game Development
+- ☕ A Coffee Addict .....
+- My [Resume](https://drive.google.com/file/d/19YpRCG2LgYV3PIPmoevRMdLXWgYmBaaC/view?usp=drive_link) & [Certificate](https://drive.google.com/drive/folders/1W8oZFI3JoQLUy8PgUl6UUWB0IF7Vq6CX?usp=drive_link)
+>>>>>>> 185f62a (Add: Add Resume & Certificate)
 
 ### Language
 

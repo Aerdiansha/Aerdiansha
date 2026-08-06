@@ -14,7 +14,7 @@
 
 - 🔧 Work at Personal Projects
 - 📖 Learning Web & Game Development
-- 💼 My [Resume](https://drive.google.com/file/d/1mbLh4Ht-vllfw-iiBUiiMQZQUYWsdwf2/view?usp=drive_link) & [Certificate](https://drive.google.com/drive/folders/1W8oZFI3JoQLUy8PgUl6UUWB0IF7Vq6CX?usp=drive_link)
+- 💼 My [Resume](https://drive.google.com/file/d/1jybvijG93yS3UpfgdJ5A9cmWY8OoLgmC/view?usp=drive_link) & [Certificate](https://drive.google.com/drive/folders/1W8oZFI3JoQLUy8PgUl6UUWB0IF7Vq6CX?usp=drive_link)
 - ☕ A Coffee Addict .....
 
 <br><br><br><br><br><br><br>

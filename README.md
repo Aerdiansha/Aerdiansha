@@ -18,6 +18,7 @@
 -  My [Resume](https://drive.google.com/file/d/19YpRCG2LgYV3PIPmoevRMdLXWgYmBaaC/view?usp=drive_link) & [Certificate](https://drive.google.com/drive/folders/1W8oZFI3JoQLUy8PgUl6UUWB0IF7Vq6CX?usp=drive_link)
 
 <br><br><br><br>
+<hr>
 
 ### Language
 
